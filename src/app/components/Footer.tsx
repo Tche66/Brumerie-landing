@@ -56,7 +56,7 @@ export function Footer() {
               <a href="#" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-emerald-500 transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
-              <a href="mailto:contact@brumerie.com" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-emerald-500 transition-colors">
+              <a href="mailto:brumerieciv@gmail.com" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-emerald-500 transition-colors">
                 <Mail className="w-5 h-5" />
               </a>
             </div>
