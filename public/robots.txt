@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brumerie-social.netlify.app/sitemap.xml
